@@ -1,0 +1,22 @@
+.posts {
+    margin: 10px;
+}
+
+.posts_indi{
+    padding: 10px;
+}
+
+.posts_title {
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    color:black;
+}
+.posts_body {
+    margin-bottom: 10px;
+    color: lightblue;
+
+}
+.btn_details{
+    margin-bottom: 10px;
+
+}

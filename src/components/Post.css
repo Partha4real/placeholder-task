@@ -1,0 +1,13 @@
+.commmentdetails {
+    margin-left: 20px;
+}
+
+.comment_name {
+    color: rgb(14, 14, 14);
+    margin-bottom: 10px;
+}
+
+.comment_body {
+    color: grey;
+    margin-bottom: 10px;
+}
